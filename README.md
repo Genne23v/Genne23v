@@ -6,6 +6,14 @@
 
 ### I love web development with JS stack, and C/C++ compiled language programming and algorithm. I still have a long journey to be a full stack programmer. I believe my strong passion will lead me to where I want to belong.
 
+# Latest Projects
+
+### Airbnb clone
+
+### Travel Website
+
+### Confetti Cuisine
+
 # Tech Stack That I Use
 
 ### Web Development
