@@ -43,7 +43,7 @@
 
 ### Database
 
-![oracle sql](./badges/oraclesql.png)
+![oracle sql](./badges/oracle_sql.png)
 ![mongodb](./badges/mongodb.png)
 
 ### Version Control and Deployment
