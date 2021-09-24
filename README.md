@@ -1,26 +1,30 @@
-# Hello, I'm Wonkeun!
+<style>
+    img[alt=hello]{width:32px;}
+</style>
 
-![alt text](https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png 'Logo Title Text 1')
+# Hello, I'm Wonkeun ![hello](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8)
 
-# I'm learning Computer Programming and Analysis at Seneca
-
-### I love web development with JS stack, and C/C++ compiled language programming and algorithm. I still have a long journey to be a full stack programmer. I believe my strong passion will lead me to where I want to belong.
+### I love web development with JS stack, as well as C/C++ compiled language programming. There will be a lot more to come for my career as a programmer. Stay tuned!
 
 # Latest Projects
 
-### Airbnb Clone
+### [Airbnb Clone](https://github.com/Genne23v/Airbnb_clone)
 
-### Travel Website
+### [WK Travel Post](https://github.com/Genne23v/WK-Travel-Post)
 
-### Confetti Cuisine
+### [Confetti Cuisine](https://github.com/Genne23v/Confetti-Cuisine)
 
-### React Scheduler
+### [React Scheduler](https://github.com/Genne23v/react-scheduler)
 
-### Bird Sanctuary Electron App
+### [Bird Sanctuary Electron App](https://github.com/Genne23v/bird-sanctuary)
 
-### Nature Observation Site
+### [Nature Observation Site]()
 
-### Simple Student Registration
+### [Simple Student Registration]()
+
+### [Assembly Line Manager](https://github.com/Genne23v/Assembly-Line-Manager)
+
+### [General Hospital Pre-triage](https://github.com/Genne23v/General-hospital-pre-triage)
 
 # Tech Stack That I Use
 
@@ -65,6 +69,7 @@
 
 # Reach me via
 
-![linkedin](./badges/linkedin.png)
-![gmail](./badges/gmail.png)
-![github](./badges/github.png)
+<a href="https://www.linkedin.com/in/wonkeun-no-09840520/">![linkedin](./badges/linkedin.png)</a>
+<a href="mailto:zakk23v@gmail.com">![gmail](./badges/gmail.png)</a>
+
+<!-- ![github](./badges/github.png) -->
