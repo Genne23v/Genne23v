@@ -1,8 +1,4 @@
-<style>
-    img[alt=hello]{width:32px;}
-</style>
-
-# Hello, I'm Wonkeun ![hello](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8)
+# Hello, I'm Wonkeun <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8" width="32">
 
 ### I love web development with JS stack, as well as C/C++ compiled language programming. There will be a lot more to come for my career as a programmer. Stay tuned!
 
